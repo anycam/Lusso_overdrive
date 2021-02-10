@@ -6,7 +6,7 @@ This guitar pedal is based on the Klon centaur and the well knwon green friend T
 Feel free to make your own pedal, here you can find the schematic, pcb and gerber files ready to send into your favorite pcb manufacturer.
 
 
-##Gallery 
+## Gallery 
 
 ![Lusso](https://github.com/anycam/Lusso_overdrive/blob/main/Images/Lay%20png.png)
 
